@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Staging", "Staging\Staging.sqlproj", "{EEAB94C6-DD46-4273-8A31-50764BE4E259}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEAB94C6-DD46-4273-8A31-50764BE4E259}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEAB94C6-DD46-4273-8A31-50764BE4E259}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEAB94C6-DD46-4273-8A31-50764BE4E259}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{EEAB94C6-DD46-4273-8A31-50764BE4E259}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEAB94C6-DD46-4273-8A31-50764BE4E259}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEAB94C6-DD46-4273-8A31-50764BE4E259}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
